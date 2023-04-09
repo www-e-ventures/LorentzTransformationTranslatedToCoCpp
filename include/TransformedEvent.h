@@ -1,5 +1,8 @@
 #ifndef TRANSFORMEDEVENT_H
 #define TRANSFORMEDEVENT_H
+//https://e.ventures
+//the@e.ventures
+//MIT License
 
 #include "../include/Event.h"
 

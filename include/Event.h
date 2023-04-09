@@ -1,5 +1,8 @@
 #ifndef EVENT_H
 #define EVENT_H
+//https://e.ventures
+//the@e.ventures
+//MIT License
 
 namespace LorentzTransformation {
 

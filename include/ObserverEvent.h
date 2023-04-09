@@ -1,5 +1,8 @@
 #ifndef OBSERVEREVENT_H
 #define OBSERVEREVENT_H
+//https://e.ventures
+//the@e.ventures
+//MIT License
 
 #include "Event.h"
 

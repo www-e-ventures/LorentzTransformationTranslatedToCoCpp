@@ -1,5 +1,8 @@
 #include "../include/TransformedEvent.h"
 #include <cmath>
+//https://e.ventures
+//the@e.ventures
+//MIT License
 
 namespace LorentzTransformation {
 
